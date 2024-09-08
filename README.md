@@ -23,11 +23,4 @@ I'm leaving out the specific commands to accomplish 1 and 3 as an exercise for y
 ### Taking it further
 - [ ] Build out the above tasks as a simple web page
 
-Angelynna Young
-I am currently learning Python. I have learned JavaScript, CSS and HTML. I love coding!
-Hobbies
-1. coding
-2. collecting German WW1 and WW2 stamps.
-3. playing with my kitties.
-![alt text](image.png)
-<www.linkedin.com/in/angelynna-young>
+
